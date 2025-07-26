@@ -2,9 +2,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=180&section=header&text=¡Hola!%20Soy%20Angel%20Carregal&fontSize=30&fontColor=ffffff" />
 </p>
-
+<p align="center">
+	<a href="https://github.com/Galimberto">
+		<img src="https://komarev.com/ghpvc/?username=Galimberto&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	</a>
+	<a href="https://github.com/Galimberto">
+		<img src="https://img.shields.io/github/followers/Galimberto?label=Followers" alt="bouaskaoun" />
+	</a>
+</p>
 <!-- Presentación breve -->
-### 👨‍💻 Sobre mí
+
+<h3>📖 Sobre mí</h3>
 
 Soy técnico electrónico y programador. Me apasionan la **Electrónica**, el desarrollo con **Arduino**, y la **programación web y de scripts**. Actualmente estoy profundizando mis conocimientos en **JavaScript Full Stack** con tecnologías como **Node.js** y **React**.
 
